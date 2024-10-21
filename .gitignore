@@ -31,3 +31,4 @@ bin/
 ## Source
 Leetcode_*/
 .idea/
+sync.sh
